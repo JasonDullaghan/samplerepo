@@ -1,1 +1,1 @@
-console.log("partner 1 doing stuff");
+console.log("partner 2 doing stuff");
